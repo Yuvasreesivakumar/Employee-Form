@@ -1,0 +1,23 @@
+.eform{
+  border: 1px solid rgb(174, 150, 150) ;
+  margin-top: 100px;
+  padding-left:80px;
+  padding-right: 80px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  display: inline-block;
+  margin-left: 40%;
+  margin-right: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 50px rgba(0, 0, 0,0.5);
+}
+.Data{
+  border: 1px solid rgb(174, 150, 150) ;
+  margin-top: 40px;
+  padding: 50px;
+  display: inline-block;
+  margin-left: 40%;
+  margin-right: auto;
+  border-radius: 10px;
+  box-shadow: 0 0 50px rgba(0, 0, 0,0.5);
+}
